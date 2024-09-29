@@ -1,6 +1,6 @@
 # Movie Recommendation System 🎬
 
-![Project Screenshot](".\src\assets\movierecommendation.png")
+![Project Screenshot]("./src/assets/movierecommendation.png")
 
 > A powerful and intelligent movie recommendation system that provides users with personalized movie suggestions based on their preferences and viewing history.
 
